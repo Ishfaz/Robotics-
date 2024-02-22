@@ -8,5 +8,5 @@ Determining the desired controlled degrees of freedom (DOF) of the foot.
 Computing the Denavit-Hartenberg (DH) or Khalil formalism for the Hexapod.
 Evaluating the Jacobian matrix.
 Implementing the simulation of the Hexabot leg using MATLAB.
-Group Members:
+
 
