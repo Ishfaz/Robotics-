@@ -23,17 +23,7 @@ This repository contains the source code, design files, and documentation for a 
 4. **MATLAB Simulation:**
    - Implement and run simulations of the Hexapod leg in MATLAB to visualize and verify the kinematic model.
 
-## Getting Started
 
-### Prerequisites
 
-- MATLAB (for simulation)
-- Understanding of kinematic modeling and control theory
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/hexapod-leg-project.git
 
 
