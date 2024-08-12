@@ -1,12 +1,39 @@
-# Robotics-This repository contains the source code, design files, and documentation for a HexPord
-Geometric and kinematic modeling of Hexapod Leg
-The objective of this project to control forward kinamatic motion of Hexapod leg. The deliveribles of the project is the simulation of the hexapod leg in forward direction. Along with it theoritical solution (Forward Kinamatics) of SCARA robot and double pendulum also been calcualted as a pat of the assignemnt.
+# Hexapod Leg Control and Kinematic Modeling
 
-Subcomponents of the problem involve:
+## Overview
 
-Determining the desired controlled degrees of freedom (DOF) of the foot.
-Computing the Denavit-Hartenberg (DH) or Khalil formalism for the Hexapod.
-Evaluating the Jacobian matrix.
-Implementing the simulation of the Hexabot leg using MATLAB.
+This repository contains the source code, design files, and documentation for a Hexapod leg project. The primary objective is to control the forward kinematic motion of a Hexapod leg. Additionally, theoretical solutions for the Forward Kinematics of SCARA robots and double pendulums have been calculated as part of the assignment.
+
+## Project Deliverables
+
+- **Simulation of Hexapod Leg:** A simulation demonstrating the forward kinematic motion of the Hexapod leg.
+- **Theoretical Solutions:** Computations for the Forward Kinematics of SCARA robots and double pendulums.
+
+## Subcomponents
+
+1. **Determining Controlled Degrees of Freedom (DOF):**
+   - Identify and control the desired DOF of the foot for accurate movement.
+
+2. **Denavit-Hartenberg (DH) or Khalil Formalism:**
+   - Compute the DH parameters or Khalil formalism for the Hexapod leg to define its kinematic model.
+
+3. **Evaluating the Jacobian Matrix:**
+   - Calculate the Jacobian matrix to understand the relationship between joint velocities and end-effector velocities.
+
+4. **MATLAB Simulation:**
+   - Implement and run simulations of the Hexapod leg in MATLAB to visualize and verify the kinematic model.
+
+## Getting Started
+
+### Prerequisites
+
+- MATLAB (for simulation)
+- Understanding of kinematic modeling and control theory
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/hexapod-leg-project.git
 
 
